@@ -95,6 +95,7 @@ export default function RootLayout({ children }) {
         <title>funny chat</title>
         {/* <link ref={"icon"} href="./funny messages.png"/> */}
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <meta property="og:image" content="https://res.cloudinary.com/dkmoybjw3/image/upload/v1742093276/zrcizwxkhh6doid6myof.jpg"/>
         <meta property="og:title" content="funny chat_.t-a-ghe" />
         <meta name="description" content="Funny Chat is a chat app that allows you to chat with your / my friends with emojis and stickers and funny // some key words => chat , chats , fun , funny , funny chat , sfunny chats , funny chat app , funny chat app for android , funny chat app for ios , funny chat app for windows , funny chat app for mac , funny chat app for linux , funny chat app for web , funny chat app for mobile , funny chat app for tablet , funny chat app for desktop , chat with friends , chat with friends app , chat with friends app for android , chat with friends app for ios , chat by stickers " />
       </head>
